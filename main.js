@@ -20,7 +20,7 @@ function updateTimeAndDate() {
     const displayArr = [
         hours[0], hours[1], 
         minutes[0], minutes[1], 
-        ' ', ' ',          // AM/PM space
+        '', '',          // AM/PM space
         day[0], day[1],
         month[0], month[1],
         year[0], year[1]

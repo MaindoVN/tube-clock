@@ -15,7 +15,7 @@ function updateTimeAndDate() {
 
     // Danh sách id của các ô (tương ứng với HTML của bạn)
     const ids = [
-        'char01','char02','char11','char12',
+        'char01','char11','char02','char12',
         'char21','char22','char31','char32',
         'char41','char42','char51','char52'
     ];
